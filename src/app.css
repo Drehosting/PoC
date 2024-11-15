@@ -1,0 +1,10 @@
+.app {
+    padding: 20px;
+}
+
+.video-library {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
